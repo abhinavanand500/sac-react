@@ -10,7 +10,6 @@ function App() {
     return (
         <>
             <Router>
-                <Navbar />
                 <Home />
                 <Counter />
             </Router>
